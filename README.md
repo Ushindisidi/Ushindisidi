@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://github.com/Ushindisidi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ushindi+Sidi+Kombe;AI%2FML+Engineer;Generative+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ushindi+Sidi+Kombe;Generative+AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   </a>
   
   <br/>
